@@ -1,6 +1,6 @@
-#####ARABICA# 
-#META#Header#End#
+#####ARABICA#
 
+#META#Header#End#
 
 ######## BEGofRECORD ####
 
@@ -35,7 +35,4 @@
 #META# 049.EdPHYSICAL	:: NODATA
 #META# 049.EdVOLUME	:: NODATA
 #META# 090.RecMISC	:: NODATA
-#META# 999.MiscINFO	:: NODATA
-
-
-
+#META# 999.MiscINFO	:: NODATA ms1
