@@ -1,13 +1,13 @@
 00#AUTH#URI######: 0333IbnLabbad
 10#AUTH#ISM####AR: ʿAbd Al_lah
-10#AUTH#KUNYA##AR: 
-10#AUTH#LAQAB##AR: 
-10#AUTH#NASAB##AR: b. Saʿīd 
-10#AUTH#NISBA##AR: 
+10#AUTH#KUNYA##AR:
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Saʿīd
+10#AUTH#NISBA##AR:
 10#AUTH#SHUHRA#AR: ʿAbd Al_lah Ibn al-labbād
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
-20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: Maghrib_RE, QAYRAWAN_101E357N_S
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
 30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)

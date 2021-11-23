@@ -5,8 +5,8 @@
 10#AUTH#NASAB##AR: b. Muḥammad b. ʿUbayd Allãh
 10#AUTH#NISBA##AR: none
 10#AUTH#SHUHRA#AR: al-Manṣūr bi-Allãh
-20#AUTH#BORN#####: URIs from Althurayya, comma separated
-20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#BORN#####: Maghrib_RE
+20#AUTH#DIED#####: Maghrib_RE
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
 30#AUTH#BORN###AH: 0301-RAM-XX
