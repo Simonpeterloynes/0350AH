@@ -1,6 +1,4 @@
 00#BOOK#URI######: 0346Istakhri.MasalikWaMamalik
-00#VERS#CLENGTH##: 246670
-00#VERS#LENGTH###: 56778
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: Kitāb al-Masālik wa-al-mamālik
 10#BOOK#TITLEB#AR:
@@ -18,9 +16,9 @@
 90#BOOK#COMMENT##: The corpus contains two editions of the text:
     - ed. De Goeje, Leiden (Brill) 1927 (in the pirated edition of Dār
     Ṣādir, Beirut),
-      based on manuscripts that represent at least two different
+    based on manuscripts that represent at least two different
     versions of the text.
-      (Shamela0010791)
+    (Shamela0010791)
     - ed. al-Ḥīnī, Cairo 1961: based on additional manuscripts,
-      including a third version of the text.
-      (JK010472, Shamela001680)
+    including a third version of the text.
+    (JK010472, Shamela001680)
